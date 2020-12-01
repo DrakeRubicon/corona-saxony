@@ -1,0 +1,1 @@
+Daily raw Data of Cases, Deaths, and other public available data points from Saxonys Gesundheitsämter.
