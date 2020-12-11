@@ -3,7 +3,7 @@ Daily raw Data of Cases, Deaths, and other public available data points from Sax
 
 ## Principle
 
-Daily case numbers and deaths of a county will be compared againt the daily numbers made [public by the SMS][1]. Highest Number wins. If Data is corrupt, missing or very late RKI-Data at 0:00 will be logged.
+Daily case numbers and deaths of a county will be compared against the daily numbers made [public by the SMS][1]. Highest Number wins. If Data is corrupt, missing or very late RKI-Data at 0:00 will be logged.
 
 All disparities will be logged as a comment.
 
